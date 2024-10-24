@@ -18,4 +18,4 @@
 
 ## ESTATÍSTICAS
 
-![IsabelDP46's stats](https://github-readme-stats.vercel.app/api?usernameisabeldp46&show_icons=true&bg_color=00000000)
+![Isabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=isabeldp46&show_icons=true&theme=transparent)
